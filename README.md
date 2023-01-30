@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/83024073/215297428-83d0a61b-e305-4ff9-a50f-3304a035794e.jpeg" width="700" />
 </div>
 
-I'm a Minneapolis-based software developer, musician, problem solver, and stress cleaner. I approach all my collaborative efforts with empathy, working to build momentum while keeping my team comfortable. Catch me outside on an extremely long walk, or inside playing an extremely long video game.
+I'm a Minneapolis-based software developer, musician, problem solver, and stress cleaner. I enjoy building apps that are clean, gorgeous, and accessible, both to the client and to the developer.
 
 
 - 🏳️‍⚧️ They/Them
