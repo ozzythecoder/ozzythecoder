@@ -10,8 +10,8 @@ I'm a Minneapolis-based software developer, musician, problem solver, and stress
 - 🏳️‍⚧️ They/Them
 - 🎹 Musician & Producer
 - 🔭 Open for work!
-- 🌱 Currently learning TypeScript & Next.js
-- 🚧 Latest project: Plug N Play, a video game recommendation app
+- 🌱 Currently learning: NestJS
+- 🚧 Latest project: **MoodMusic** - organize your playlist by mood
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/august-mcallister/)
 - 🤫 Two truths and a lie:
   - I performed live music for the king of Sweden
